@@ -24,6 +24,12 @@ The jumping off point for All the libraries and frameworks in one spot for easy 
 
 1. Lint
 2. Sass
-3. Gulp
+3. Gulp or grunt
 4. Webpack - if using react
 5. Acquia 
+6. Swagger
+7. Package.json is magic. Get the details on making this really work
+8. Gitignore getting the basic stuff worked out
+
+
+
