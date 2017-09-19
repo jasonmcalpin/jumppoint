@@ -1,14 +1,13 @@
-# General style guide
-General style guide for JS, TS, CSS, SASS, HTML, and makefile
-
 ## Cascading Style Sheets
 1. [README](README.md)
+
+## Important links
+1. **[oxygencss](http://oxygencss.com/)**: object oriented css methodology
 
 ## Table of Content
 
 1. [Breakpoints](#breakpoints)
 1. [Blocktypes](#blocktypes)
-
 
 ## Breakpoints
 Some common breakpoints 

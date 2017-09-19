@@ -10,13 +10,15 @@ The jumping off point for All the libraries and frameworks in one spot for easy 
 
 ### Table of Content
 
-1. [CSS](css.md#Breakpoints)
-1. [Javascript](javascript.md#types)
+1. [CSS](css.md)
+1. [Javascript](javascript.md)
 1. [Docker](docker.md)
 1. [Node](node.md)
 1. [React](react.md)
 1. [Angular](angular.md)
 1. [Watson](watson.md)
+1. [Gulp](gulp.md)
+1. [webpack](webpack.md)
 
 ### To be added
 
