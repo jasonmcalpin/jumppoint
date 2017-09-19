@@ -11,7 +11,7 @@ General style guide for JS, TS, CSS, SASS, HTML, and makefile
 
 
 ## Breakpoints
-
+Some common breakpoints 
 ```
     /* Extra Small Devices, Phones */ 
     @media only screen and (min-width : 480px) {
@@ -33,3 +33,5 @@ General style guide for JS, TS, CSS, SASS, HTML, and makefile
 
     }
  ```
+## To be added
+1. theme/layout templates
