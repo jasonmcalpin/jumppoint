@@ -6,5 +6,11 @@ Guide to setting up node and basic template
 ## Important links
 
 1. [Nodejs](https://nodejs.org/en/)
-1. [Javascript](javascript.md#types)
-1. [Docker](docker.md)
+
+
+## Best Practices
+
+* Node setup should include a dev and prod setup in package.jsonso that it can be deployed. Get the [template here](setups/node/package.json). 
+  
+* Credentials should be saved in an .env file
+
