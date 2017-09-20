@@ -30,6 +30,10 @@ The jumping off point for All the libraries and frameworks in one spot for easy 
 6. Swagger
 7. Package.json is magic. Get the details on making this really work
 8. Gitignore getting the basic stuff worked out
+9. Checklists
+1. Processes
+2. Ticketing
+3. 
 
 
 
