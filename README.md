@@ -24,6 +24,7 @@ The jumping off point for All the libraries and frameworks in one spot for easy 
 
 1. Lint
 2. Sass
-3. Gulp
-4. Webpack - if using react
 5. Acquia 
+
+## Useful tools
+1. [placeholder](https://placeholder.com/)
