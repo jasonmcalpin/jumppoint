@@ -20,6 +20,22 @@ The jumping off point for All the libraries and frameworks in one spot for easy 
 1. [Gulp](gulp.md)
 1. [webpack](webpack.md)
 
+
+
+## STANDARDS
+
+### Order of project start
+1. Make the initial setup for the framework or template needed for the project.
+2. code
+3. lint
+4. commit
+5. repeat until approved
+6. create pull request
+
+### Build tools
+1. Gulp to be used on all projects.
+2. Webpack to be used on react projects.
+
 ### To be added
 
 1. Lint
@@ -28,7 +44,7 @@ The jumping off point for All the libraries and frameworks in one spot for easy 
 
 ## Useful tools
 1. [placeholder](https://placeholder.com/)
-3. Gulp or grunt
+3. Gulp
 4. Webpack - if using react
 5. Acquia 
 6. Swagger
@@ -37,8 +53,3 @@ The jumping off point for All the libraries and frameworks in one spot for easy 
 9. Checklists
 1. Processes
 2. Ticketing
-3. 
-
-
-
->>>>>>> 00eb0aa8f6aa3c70ac1116864dbe3d9f415082e8
