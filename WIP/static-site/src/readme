@@ -1,0 +1,6 @@
+run "npm install --save-dev gulp"
+
+then run "gulp watch" 
+
+now any changes you make should be automatically rendered out
+
